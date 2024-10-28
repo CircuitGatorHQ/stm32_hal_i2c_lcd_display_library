@@ -1,5 +1,6 @@
 # STM32 I2C LCD Display Library
-Video tutoral showing how to use the library is available on YouTube: 
+Video tutoral showing how to use the library is available on YouTube: https://www.youtube.com/watch?v=czcEovgO4Gk
+
 Code Example:
 
     //Nomral static Printing
