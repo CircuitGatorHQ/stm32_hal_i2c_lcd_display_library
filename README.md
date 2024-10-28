@@ -1,4 +1,4 @@
-# stm32_hal_i2c_lcd_display_library
+# STM32 I2C LCD Display Library
 Video tutoral showing how to use the library is available on YouTube: 
 Code Example:
 
